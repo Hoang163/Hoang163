@@ -1,4 +1,4 @@
-Hello👋
+## Hello👋
 
 My name is Hoang, and I'm a student at HCMUT with a huge passion for front-end development.
 
